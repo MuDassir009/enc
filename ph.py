@@ -19,7 +19,7 @@ def banner():
     print W + '         |_|   |__/'
     print Y + '0{' + 42 * '=' + '}0'
     print Y + '|' + B + ' CREATER: ' + W + 'MUDASSIR ALI' + Y + '                       |'
-    print Y + '|' + B + ' WHATSAPP : ' + W + '+92439635677 + Y + '                 |'
+    print Y + '|' + B + ' WHATSAPP : ' + W + '+92439635677' + Y + '                 |'
     print Y + '|' + B + ' NOTE   : ' + W + 'DON,T CALL ME ONLY TEXT' + Y + '   |'
     print Y + '|' + B + ' WHATSAPP GROUP : ' + W + 'NO' + Y + '       |'
     print Y + '|' + B + ' NOTE  : ' + W + 'USE 4G SIM DATA' + Y + '     |'
